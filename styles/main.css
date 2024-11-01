@@ -8,9 +8,11 @@ body {
     color: rgb(54, 64, 38);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-nav{
+
+nav {
     background-color: black;
 }
+
 nav a {
     display: inline-block;
     background-color: saddlebrown;
